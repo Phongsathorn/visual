@@ -1,0 +1,46 @@
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.exe.config
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.exe
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.pdb
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csprojAssemblyReference.cache
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.foradmin.resources
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.login.resources
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.market.resources
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.Properties.Resources.resources
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.register.resources
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.GenerateResource.cache
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.CoreCompileInputs.cache
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.exe
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.pdb
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.dll
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.SqlServer.dll
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.dll
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.EF6.dll
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.Linq.dll
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.xml
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.SqlServer.xml
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.xml
+D:\รวมงาน\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.dll.config
+D:\รวมงาน\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.CopyComplete
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.exe.config
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.exe
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\Figure Shop.pdb
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.dll
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.dll
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.xml
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.xml
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csprojAssemblyReference.cache
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.foradmin.resources
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.login.resources
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.market.resources
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.Properties.Resources.resources
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure_Shop.register.resources
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.GenerateResource.cache
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.CoreCompileInputs.cache
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.csproj.CopyComplete
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.exe
+C:\Users\OHMME\Downloads\visual\Figure Shop\Figure Shop\obj\Debug\Figure Shop.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FigureShopMobile1.views.login">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#RosyBrown">
+            <Label x:Name="home" Text="Figure Shop" Margin="20,20" FontSize="25" TextColor="Black" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" />
+            <Label x:Name="loginuser" Text="username" Margin="30,30,0,0" FontSize="25" TextColor="Blue" />
+            <Entry x:Name="inuser" Placeholder="username" Margin="30,0,20,0" />
+            <Label x:Name="loginpw" Text="password" Margin="30,30,0,0" FontSize="25" TextColor="Blue" />
+            <Entry x:Name="inpw" Placeholder="password" Margin="30,0,20,0" />
+            <Button x:Name="blogin" Clicked="blogin_Clicked" Text="Login"  Margin="50,30,50,0" BackgroundColor="#99FFCC" FontSize="20"/>
+            <Button x:Name="bregister" Clicked="bregister_Clicked" Text="Register"  Margin="50,20,50,0" BackgroundColor="#99FFCC" FontSize="20" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

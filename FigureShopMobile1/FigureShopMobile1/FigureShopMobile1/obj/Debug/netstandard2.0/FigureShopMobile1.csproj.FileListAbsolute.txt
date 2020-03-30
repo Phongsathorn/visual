@@ -1,0 +1,17 @@
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\views\home.xaml.g.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\views\login.xaml.g.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\views\register.xaml.g.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.csproj.CoreCompileInputs.cache
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.AssemblyInfoInputs.cache
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.AssemblyInfo.cs
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\bin\Debug\netstandard2.0\FigureShopMobile1.deps.json
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\bin\Debug\netstandard2.0\FigureShopMobile1.dll
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\bin\Debug\netstandard2.0\ref\FigureShopMobile1.dll
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\bin\Debug\netstandard2.0\FigureShopMobile1.pdb
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.dll
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\ref\FigureShopMobile1.dll
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.pdb
+C:\Users\OHMME\Downloads\visual\FigureShopMobile1\FigureShopMobile1\FigureShopMobile1\obj\Debug\netstandard2.0\FigureShopMobile1.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FigureShopMobile1.views.register">
+    <Grid BackgroundColor="#RosyBrown">
+        <StackLayout>
+            <Label x:Name="labelregis" Text="Register" HorizontalOptions="Center" FontSize="30" Margin="0,0,0,0" TextColor="Black" />
+            <Label x:Name="fname" Text="Firstname" Margin="30,20,0,0" TextColor="Blue" FontSize="20"/>
+            <Entry x:Name="infname" Placeholder="ชื่อ" Margin="30,0,20,0" />
+            <Label x:Name="lname" Text="Lastname" Margin="30,10,0,0" TextColor="Blue" FontSize="20"/>
+            <Entry x:Name="inlname" Placeholder="นามสกุล" Margin="30,0,20,0" />
+            <Label x:Name="luname" Text="Username" Margin="30,10,0,0" TextColor="Blue" FontSize="20"/>
+            <Entry x:Name="inuname" Placeholder="ชื่อผู้ใช้" Margin="30,0,20,0" />
+            <Label x:Name="lemail" Text="Email" Margin="30,10,0,0" TextColor="Blue" FontSize="20"/>
+            <Entry x:Name="inemail" Placeholder="example@gmail.com" Margin="30,0,20,0" />
+            <Label x:Name="lpass" Text="Password" Margin="30,10,0,0" TextColor="Blue" FontSize="20"/>
+            <Entry x:Name="inpass" Placeholder="*********"  Margin="30,0,20,0" />
+            <Button x:Name="b_regis" Clicked="b_regis_Clicked" Text="Register" Margin="50,10,50,0" BackgroundColor="#99FFCC" FontSize="20" />
+
+        </StackLayout>
+    </Grid>
+</ContentPage>

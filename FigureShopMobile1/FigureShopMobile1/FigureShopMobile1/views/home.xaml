@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FigureShopMobile1.views.home">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#RosyBrown">
+            <Label x:Name="figure" Text="Figure Shop" Margin="10,20" FontSize="25" TextColor="DarkRed" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" />
+            <Button Text="ออกจากระบบ" Clicked="Button_Clicked_4" Margin="280,-70,10,0" BackgroundColor="RosyBrown"></Button>
+            <StackLayout>
+                <Image Source="Amiya.jpg" Margin="-280,0,0,0" HeightRequest="140"/>
+                <Label x:Name="amiya" Text="Nendoroid Arknights Amiya" Margin="140,-150,0,0"/>
+                <Label x:Name="pr_amiya" Text="ราคา 1700 บาท" Margin="140,0,0,0"/>
+                <Button Text="สั่งซื้อ" Clicked="Button_Clicked" Margin="140,0,180,0" BackgroundColor="#99FFCC"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="Kasane" Margin="-280,45,0,0" HeightRequest="140"/>
+                <Label x:Name="kasane" Text="UTAU Kasane Teto Yoshiwara Lament" Margin="140,-150,0,0"/>
+                <Label x:Name="pr_kasane" Text="ราคา 5350 บาท" Margin="140,0,0,0"/>
+                <Button Text="สั่งซื้อ" Clicked="Button_Clicked_1" Margin="140,0,180,0" BackgroundColor="#99FFCC"/>
+            </StackLayout>
+            
+            <StackLayout>
+                <Image Source="Megumin" Margin="-280,45,0,0" HeightRequest="140"/>
+                <Label x:Name="megumin" Text="Wonderful World! Kurenai Densetsu Megumin Rock" Margin="140,-150,0,0"/>
+                <Label x:Name="pr_megumin" Text="ราคา 4950 บาท" Margin="140,0,0,0"/>
+                <Button Text="สั่งซื้อ" Clicked="Button_Clicked_2" Margin="140,0,180,0" BackgroundColor="#99FFCC"/>
+            </StackLayout>
+                
+            <StackLayout>
+                <Image Source="Miko" Margin="-280,30,0,0" HeightRequest="140"/>
+                <Label x:Name="miko" Text="BINDing Creators Opinion - Kurokawa Miko" Margin="140,-150,0,0"/>
+                <Label x:Name="pr_miko" Text="ราคา 9900 บาท" Margin="140,0,0,0"/>
+                <Button Text="สั่งซื้อ" Clicked="Button_Clicked_3" Margin="140,0,180,0" BackgroundColor="#99FFCC"/>
+            </StackLayout>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
